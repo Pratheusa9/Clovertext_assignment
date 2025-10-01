@@ -1,0 +1,56 @@
+Total variants in 'test1_data_1.annotated.vcf': 30726
+
+=== Unique Genes ===
+Total unique genes: 15890
+Few examples of unique genes:
+PLEKHA1, JDP2, SMU1, ACOT4, NKG7, ZNF341, FAM91A1, RBM23, AC074117.13, MIR98, WDR91, RP11-344E13.3, RNF182, SNX19, OR4K15, PCDHGB7, PSMA7, NFATC2, CTD-2306M10.1, MAGEF1
+
+=== Unique Traits/Disease Conditions ===
+Total unique traits: 2
+1, 0
+
+=== Pathogenic/Likely Pathogenic Variants ===
+Total pathogenic variants: 16
+1:155264120 pathogenic
+1:155264120 pathogenic
+1:155264120 pathogenic
+1:155264120 pathogenic
+1:155264120 pathogenic
+1:155264120 pathogenic
+1:226923505 likely_pathogenic
+1:226923505 likely_pathogenic
+1:226923505 likely_pathogenic
+1:226923938 likely_pathogenic
+1:226923938 likely_pathogenic
+1:226923938 likely_pathogenic
+6:38821025 pathogenic
+6:38821025 pathogenic
+6:38821025 pathogenic
+6:38821025 pathogenic
+
+=== Per-Chromosome Variant Summary ===
+CHROM  TOTAL  WITH_ID  WITHOUT_ID
+1      3112   3112     0         
+10     1359   1359     0         
+11     2100   2100     0         
+12     1544   1544     0         
+13     551    551      0         
+14     1125   1125     0         
+15     1023   1023     0         
+16     1207   1207     0         
+17     1872   1872     0         
+18     490    490      0         
+19     2226   2226     0         
+2      2017   2017     0         
+20     830    830      0         
+21     435    435      0         
+22     772    772      0         
+3      1763   1763     0         
+4      1269   1269     0         
+5      1363   1363     0         
+6      1655   1655     0         
+7      1322   1322     0         
+8      1010   1010     0         
+9      1271   1271     0         
+X      408    408      0         
+Y      2      2        0         
